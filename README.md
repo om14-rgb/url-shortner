@@ -1,6 +1,6 @@
 # Bitly Clone - URL Shortener
 
-A full-stack URL shortener application inspired by Bitly, built with **Spring Boot** for the backend and **React.js** for the frontend. This project allows users to shorten long URLs, track click counts, and manage their shortened links.
+A full-stack URL shortener application inspired by Bitly, built with **Spring Boot** for the backend. This project allows users to shorten long URLs, track click counts, and manage their shortened links.
 
 
 
@@ -19,5 +19,3 @@ A full-stack URL shortener application inspired by Bitly, built with **Spring Bo
 - **H2 Database**: In-memory database for development (can be replaced with MySQL/PostgreSQL for production).
 - **Lombok**: To reduce boilerplate code.
 
-### Frontend
-- **React.js**: Frontend library for building the user interface.
