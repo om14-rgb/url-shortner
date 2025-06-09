@@ -8,7 +8,7 @@ A full-stack URL shortener application inspired by Bitly, built with **Spring Bo
 
 - **Shorten URLs**: Convert long URLs into short, easy-to-share links.
 - **Custom Aliases**: Optionally create custom short URLs.
-- **Responsive UI**: A clean and responsive user interface built with React.js.
+
 
 ## Technologies Used
 
